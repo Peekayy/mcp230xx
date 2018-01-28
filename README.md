@@ -1,3 +1,7 @@
+
+# Deprecated !
+A more complete implementation was introduced in kernel source around June 2017
+
 # mcp230xx
 Device driver kernel module for mcp23008 &amp; mcp23017 (i²C GPIO expanders)
 
